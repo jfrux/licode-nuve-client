@@ -1,0 +1,30 @@
+{
+  "name": "licode-nuve-client",
+  "version": "0.1.1",
+  "authors": [
+    "Lynkia",
+    "Joshua F. Rountree <joshua@swodev.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshuairl/licode-nuve-client.git"
+  },
+  "description": "Licode Nuve Client Javascript Library.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "licode",
+    "nuve",
+    "client"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshuairl/licode-nuve-client",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
